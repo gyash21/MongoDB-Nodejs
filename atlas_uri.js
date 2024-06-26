@@ -1,0 +1,1 @@
+module.exports = uri ="mongodb+srv://myAtlasDBUser:Yash@111@myatlasclusteredu.r1eug9v.mongodb.net/?retryWrites=true&w=majority&appName=myAtlasClusterEDU"
